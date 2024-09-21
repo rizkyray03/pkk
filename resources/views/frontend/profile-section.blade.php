@@ -1,11 +1,13 @@
 <div
-    class="container py-5 px-12 mt-10 w-full flex-row grid grid-cols-1 gap-2 lg:grid-cols-8 justify-center items-center">
-    <div class="w-full flex-col justify-center col-span-4 order-2 lg:order-1">
+    class="container py-5 px-12 mt-10 w-full flex-row grid grid-cols-1 gap-2 lg:grid-cols-8 justify-center items-center shadow shadow-lg">
+    <div class="w-full flex-col justify-center col-span-4 order-2 lg:order-1 text-center lg:text-left">
         <div class="title">
             <p class="text-info font-bold text-lg">SAMBUTAN PENJABAT KETUA TP.PKK KELURAHAN LAPULU</p>
         </div>
         <div class="content py-4">
-            <p class="mr-40 font-bold text-gray-600 w-full">Selamat datang di Website Resmi TP.PKK Kelurahan Lapulu.
+            <p class="mr-40 font-bold text-gray-600 w-full">Selamat datang di Website Resmi
+                TP.PKK Kelurahan
+                Lapulu.
                 Website
                 ini
                 merupakan
